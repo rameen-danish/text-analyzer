@@ -61,4 +61,4 @@ else:
     st.warning("⚠️ Please enter a paragraph to analyze.")
 
 # Footer
-st.markdown("<br><hr><center>Made with ❤️ using Streamlit by Rameen Rashid</center>", unsafe_allow_html=True)
+st.markdown("<br><hr><center>Made with ❤️ by Rameen Rashid</center>", unsafe_allow_html=True)
